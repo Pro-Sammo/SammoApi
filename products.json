@@ -1,0 +1,40 @@
+[
+    {
+        "name":"iphone",
+        "price":999,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone 13",
+        "price":1599,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price":599,
+        "company":"apple"
+    },
+    {
+        "name":"watch 10",
+        "price":799,
+        "company":"apple"
+    },
+    {
+        "name":"helio 850",
+        "price":1199,
+        "company":"hp"
+    },
+    {
+        "name":"note 10+",
+        "price":1299,
+        "featured":true,
+        "company":"samsung"
+    },
+    {
+        "name":"poco x3 pro",
+        "price":235,
+        "company":"mi"
+    }
+]
